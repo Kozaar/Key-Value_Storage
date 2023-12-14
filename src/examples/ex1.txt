@@ -1,0 +1,3 @@
+key1 "Petrov" "Ivan" 2001 "Rostov" 55
+key2 "Ivanov" "Petr" 2000 "Moscow" 55 
+key300500 "Sidorov" "Vasiliy" 12345 "Novgorod" 5
